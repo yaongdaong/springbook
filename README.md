@@ -29,4 +29,4 @@ System.out.println("메롱");
 
 -------
 
-![이미지](https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true)
+![이미지](https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg)
