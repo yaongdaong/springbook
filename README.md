@@ -16,8 +16,8 @@ System.out.println("메롱");
 [내 블로그](https://yaongdaong.tistory.com/)
 
 * 순서 없는 목록
-- 순서 없는 목록
-+ 순서 없는 목록
+    - 순서 없는 목록
+        + 순서 없는 목록
 
 1. 순서 있는 목록
 2. 순서 있는 목록
