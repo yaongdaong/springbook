@@ -7,11 +7,11 @@
 ##### 샵 다섯
 ###### 샵 여섯
 
-''' JAVA
+``` JAVA
 System.out.println("메롱");
-'''
+```
 
-[내 블로그] (https://yaongdaong.tistory.com/)
+[내 블로그](https://yaongdaong.tistory.com/)
 
 * 순서 없는 목록
 - 순서 없는 목록
@@ -21,9 +21,9 @@ System.out.println("메롱");
 >> 인용구임
 >>> 인용구임
 
-내용1 | 내용2 | 내용3
+내용1|내용2|내용3
 
-** 강조문구 **
+**강조문구**
 
 -------
 
